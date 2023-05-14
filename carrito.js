@@ -22,3 +22,5 @@ export function procesarPedido() {
     console.log(contenedorCompra);
   });
 }
+
+/*el video de muestra de la eccomerce es el siguiente  https://www.youtube.com/watch?v=wXeVIchxiL0 */
